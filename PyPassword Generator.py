@@ -75,6 +75,7 @@ for Character in range(0, nr_numbers):
 
 print(Pasword_list)
 random.shuffle(Pasword_list)
+print(Pasword_list)
 
 Pasword = ""
 for Character in Pasword_list:
